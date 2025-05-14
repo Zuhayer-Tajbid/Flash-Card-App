@@ -18,46 +18,65 @@ A simple and efficient flashcard app built with **Flutter**. This app helps user
 
 ## 📸 Screenshots
 
-### 🏠 Home Screen
-![Home](screenshots/home_screen.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/home_screen.jpg" width="200px"><br>
+      <b>🏠 Home</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/deck_screen.jpg" width="200px"><br>
+      <b>📚 Deck</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/card_screen.jpg" width="200px"><br>
+      <b>🃏 Card</b>
+    </td>
+  </tr>
+</table>
 
-### 📚 Deck Screen
-![Deck](screenshots/deck_screen.jpg)
-
-### 🃏 Card Screen
-![Card](screenshots/card_screen.jpg)
 
 ---
 
 ### 📚 Deck Operations
 
-#### ➕ Add Deck
-![Add Deck](screenshots/add_deck.jpg)
+<table>
+  <tr>
+    <td align="center"><img src="screenshots/add_deck.jpg" width="200px"><br><b>➕ Add Deck</b></td>
+    <td align="center"><img src="screenshots/update_deck.jpg" width="200px"><br><b>✏️ Edit Deck</b></td>
+    <td align="center"><img src="screenshots/deck_delete.jpg" width="200px"><br><b>🗑️ Delete Deck</b></td>
+  </tr>
+</table>
 
-#### ✏️ Edit Deck
-![Edit Deck](screenshots/update_deck.jpg)
-
-#### 🗑️ Delete Deck
-![Delete Deck](screenshots/deck_delete.jpg)
 
 ---
 
 ### 🧠 Card Operations
 
-#### ➕ Add Card
-![Add Card](screenshots/add_card.jpg)
-
-#### ✏️ Edit Card
-![Edit Card](screenshots/update_card.jpg)
-
-#### 🗑️ Delete Card
-![Delete Card](screenshots/card_delete.jpg)
-
-#### 🔄 Review Card
-![Review Card](screenshots/review.jpg)
-
-#### 🎉 Completed
-![Completed](screenshots/completed.jpg)
+<table>
+  <tr>
+    <td align="center">
+      <img src="screenshots/add_card.jpg" width="180px"><br>
+      <b>➕ Add Card</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/update_card.jpg" width="180px"><br>
+      <b>✏️ Edit Card</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/card_delete.jpg" width="180px"><br>
+      <b>🗑️ Delete Card</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/review.jpg" width="180px"><br>
+      <b>🔄 Review Card</b>
+    </td>
+    <td align="center">
+      <img src="screenshots/completed.jpg" width="180px"><br>
+      <b>🎉 Completed</b>
+    </td>
+  </tr>
+</table>
 
 
 ## 📦 Dependencies

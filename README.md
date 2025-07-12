@@ -78,7 +78,13 @@ A simple and efficient flashcard app built with **Flutter**. This app helps user
   </tr>
 </table>
 
+---
 
+## 📱 Download APK
+
+👉 [Download the latest APK](https://github.com/Zuhayer-Tajbid/Flash-Card-App/releases/tag/v1.0.0.0)
+
+--- 
 ## 📦 Dependencies
 
 This app uses the following Flutter packages:
